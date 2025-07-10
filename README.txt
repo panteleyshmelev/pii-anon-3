@@ -18,6 +18,9 @@ Prerequisites:
 Setup and Running Instructions:
 --------------------
 
+FIRST CONFIGURE YOUR .env FILE!!!
+
+
 (Run these commands line by line in your project's root directory using a terminal like PowerShell in VS Code)
 
 1.  Create a Python virtual environment:
