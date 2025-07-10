@@ -1,0 +1,42 @@
+{
+  "_metadata": {
+    "last_person_index": 0,
+    "unlinked_pii_counters": {
+      "SOCIALSECURITYNUMBER": 1,
+      "DATEOFBIRTH": 1,
+      "PHONENUMBER": 1
+    }
+  },
+  "persons": {
+    "PERSON_0": {
+      "namess": {
+        "[PERSON_0_NAMES_0]": "Evelyn Tan"
+      },
+      "identifierss": {
+        "[PERSON_0_IDENTIFIERS_0]": "S8812345G"
+      },
+      "addressess": {
+        "[PERSON_0_ADDRESSES_0]": "123 Orchard Rise, #04-05, Singapore 238888",
+        "[PERSON_0_ADDRESSES_1]": "456 Serangoon Central, #10-11, Singapore 550456"
+      },
+      "emailss": {
+        "[PERSON_0_EMAILS_0]": "a.evelyn.tan88@example.com",
+        "[PERSON_0_EMAILS_1]": "e.tan.consulting@personal.sg"
+      },
+      "phoness": {
+        "[PERSON_0_PHONES_0]": "+65 9123 4567"
+      }
+    }
+  },
+  "unlinked_pii": {
+    "SocialSecurityNumber": {
+      "[UNMATCHED_SOCIALSECURITYNUMBER_0]": "987-65-4321"
+    },
+    "DateOfBirth": {
+      "[UNMATCHED_DATEOFBIRTH_0]": "15 August 1988"
+    },
+    "PhoneNumber": {
+      "[UNMATCHED_PHONENUMBER_0]": "87654321"
+    }
+  }
+}
