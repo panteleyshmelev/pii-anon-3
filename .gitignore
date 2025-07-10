@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDE / Editor specific
+.vscode/
+.idea/
+
+# Data files (ignore contents, not necessarily the folders themselves if empty)
+# If you want to keep the directory structure but ignore files within:
+data/uploads/*
+data/masked_pdfs/*
+data/unmasked_pdfs/*
+data/masked_txts/*
+data/unmasked_txts/*
+# data/masking_maps.json # Decide if you want to version this. For development, maybe. For production, usually not. Let's ignore it for now for simplicity.
+data/masking_maps.json 
+
